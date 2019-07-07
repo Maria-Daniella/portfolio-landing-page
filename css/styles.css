@@ -24,6 +24,9 @@ h2 {
    background-repeat: no-repeat;
    background-size: cover;
 }
+#hobbies {
+   float:none;
+}
 A:link { COLOR: purple; TEXT-DECORATION: none; font-weight: normal }
 A:visited { COLOR: purple; TEXT-DECORATION: none; font-weight: normal }
 A:active { COLOR: red; TEXT-DECORATION: none }
