@@ -1,20 +1,27 @@
 h1 {
-   color: purple;
+   color: grey;
    text-align: center;
-   background-image:url(grey.jpg);
+   background-image:url(portfolio1.jpg) ;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
    padding: 50px;
 }
 h2 {
-   color: purple;
+   color: grey;
 }
 #link a{
-   box-shadow: 10px 5px 5px purple;
+   box-shadow: 10px 5px 5px grey;
    padding: 30px;
 }
-#list {
-   background-image:url(activities.jpg);
+#image1 {
+   background-image:url(image1.JPG);
    background-repeat: no-repeat;
-   background-position: center;
+   background-size: cover;
+}
+#image2 {
+   background-image:url(image2.JPG);
+   background-repeat: no-repeat;
    background-size: cover;
 }
 A:link { COLOR: purple; TEXT-DECORATION: none; font-weight: normal }
